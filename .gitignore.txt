@@ -1,0 +1,9 @@
+# Ignore Word documents
+*.docx
+
+# Ignore Jupyter Notebook checkpoints or unwanted notebooks
+MachineLearning_3 end.ipynb
+ML_Assignment2.ipynb
+
+# Ignore any accidental "git" folder
+git/
