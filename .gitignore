@@ -7,3 +7,9 @@ ML_Assignment2.ipynb
 
 # Ignore any accidental "git" folder
 git/
+
+
+*.docx
+*.ipynb
+git/
+*.csv
